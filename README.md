@@ -76,17 +76,9 @@ For the full list of dependencies, see the [requirements.txt](requirements.txt) 
 - Improve delivery times ⏱️
 - Enhance operational efficiency 📈
 
-## 📝 Contribution Guidelines
-
-We welcome contributions! Please see our [CONTRIBUTING.md](CONTRIBUTING.md) for details on the code of conduct and how to get started. 🤝
-
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## 💬 Feedback & Support
 
 If you encounter any issues or have suggestions for improvement, feel free to open an issue in the repository or contact us. Your feedback is invaluable! 🚀
-```
 
-Would you like to refine or add any specific sections?
+
+
