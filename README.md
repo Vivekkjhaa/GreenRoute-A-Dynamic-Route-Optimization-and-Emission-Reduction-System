@@ -33,13 +33,9 @@ python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 ```
 
-### Step 3: Install Dependencies
-Install all required libraries and dependencies using the `requirements.txt` file:
-```bash
-pip install -r requirements.txt
-```
 
-### Step 4: Set Up API Keys
+
+### Step 3: Set Up API Keys
 GreenRoute relies on external APIs for traffic and weather data. To configure these:
 
 1. Sign up for the respective API services (e.g., Google Maps API, OpenWeatherMap API). 🌐
@@ -49,7 +45,7 @@ GreenRoute relies on external APIs for traffic and weather data. To configure th
    OPENWEATHER_API_KEY=your_openweather_api_key
    ```
 
-### Step 5: Run the Application
+### Step 4: Run the Application
 Start the system by running the main script:
 ```bash
 python main.py
@@ -62,7 +58,7 @@ python main.py
 - `dotenv`: For managing environment variables 📦
 - `flask` (optional): If you plan to create a web interface 🌐
 
-For the full list of dependencies, see the [requirements.txt](requirements.txt) file.
+
 
 ## 📚 How It Works
 
