@@ -1,6 +1,6 @@
-Here's an expanded version of your README file with installation instructions, dependencies, and emoji usage for GitHub:  
 
-```markdown
+
+
 # 🌍 GreenRoute: A Dynamic Route Optimization and Emission Reduction System
 
 The **GreenRoute** system is an innovative solution designed to optimize logistics operations by leveraging real-time data. By integrating traffic, weather, and vehicle data, GreenRoute provides logistics managers and drivers with optimized routes that minimize delays and reduce carbon emissions. 🚚🌱
